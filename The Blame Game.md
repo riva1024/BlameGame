@@ -37,5 +37,3 @@ The system operates as a **Finite State Machine**:
     python main.py
     ```
 
-## 📄 License
-MIT License
